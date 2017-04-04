@@ -1,0 +1,101 @@
+SailNO|SAILNAME|SAILdob|SailNationality|SailDesignation
+1016|Hasad|28/01/2010|Bouvet Island|6
+1054|Rana|13/08/1932|Ecuador|5
+1181|Aimee|25/04/1939|Andorra|3
+1174|Fleur|25/04/1993|Kenya|0
+1004|Quinn|02/02/2011|Bermuda|4
+1073|Galvin|16/05/2007|Portugal|1
+1162|Nerea|06/01/1967|Norway|1
+1048|Judith|05/10/1958|Britain|3
+1157|Ann|22/10/1977|Austria|4
+1196|Wyatt|02/01/1974|Finland|5
+1119|Margaret|05/12/2011|Slovakia|4
+1106|Benjamin|18/10/2014|Hong Kong|6
+1112|Sonya|10/01/1968|Wallis and Futuna|1
+1015|Clare|08/05/1944|United Kingdom|4
+1006|Sylvia|15/01/1951|Monaco|3
+1200|Abel|16/07/1956|Kazakhstan|5
+1109|Tyler|25/07/1946|Congo (Brazzaville)|2
+1087|Shafira|19/07/2006|Netherlands|2
+1060|Ariel|11/08/2004|Slovakia|4
+1184|Addison|22/10/1961|Monaco|4
+1139|Sybill|19/06/2012|New Zealand|1
+1137|Caldwell|24/04/1958|Nicaragua|3
+1102|Shoshana|19/01/2012|New Caledonia|2
+1036|Lucius|20/10/1955|French Polynesia|2
+1060|Bryar|08/08/1969|Botswana|0
+1133|Amena|14/11/1994|Mozambique|1
+1038|Avram|10/11/1995|United Kingdom|0
+1186|Trevor|04/02/1963|Peru|5
+1167|Jessamine|03/01/2005|Morocco|0
+1052|Ferdinand|25/06/1985|Moldova|2
+1027|Aiko|22/07/1990|Seychelles|4
+1019|Axel|25/01/1993|Ukraine|4
+1010|Alvin|25/04/1996|Honduras|4
+1077|Kristen|18/08/1970|Albania|6
+1117|Chloe|11/03/1946|Yemen|1
+1157|Donna|17/12/1953|Grenada|5
+1171|Quemby|08/06/1947|Greenland|0
+1089|Rinah|14/05/1954|Bhutan|4
+1029|Alea|11/11/1966|Suriname|2
+1159|Brody|29/09/1972|Laos|3
+1115|Jordan|27/06/2003|Gabon|5
+1121|Mia|03/10/1962|Senegal|5
+1121|Aquila|25/10/1978|Croatia|6
+1091|Robin|06/09/1940|Saint Vincent and The Grenadines|5
+1122|Davis|04/05/1952|Mauritania|3
+1046|Jenette|19/07/1981|Belgium|5
+1166|Alyssa|17/08/1957|Curaçao|5
+1141|Neil|24/01/1953|Kuwait|4
+1024|Walter|26/04/1958|Saint Lucia|0
+1122|Ingrid|11/09/1947|United Arab Emirates|5
+1046|Gregory|20/05/1967|Morocco|0
+1125|Debra|07/01/1957|Iran|3
+1013|Stone|11/11/1991|Mayotte|6
+1039|Sonia|02/03/1955|Djibouti|0
+1161|Octavia|15/03/1958|Bhutan|0
+1050|Fatima|28/11/1935|Anguilla|0
+1138|Signe|01/03/2010|Niger|1
+1185|Katelyn|12/04/1933|Lesotho|2
+1004|Kadeem|03/09/1987|Luxembourg|0
+1147|Jason|20/01/1956|Hungary|4
+1027|Kamal|05/05/2009|Cameroon|1
+1140|Ava|29/09/1958|Chile|2
+1049|Ivy|23/04/1997|Uganda|2
+1103|Margaret|28/03/1941|Canada|2
+1128|Sasha|02/09/1936|Northern Mariana Islands|3
+1142|Jenette|18/12/2005|Singapore|3
+1029|Ingrid|16/02/1934|Gibraltar|0
+1025|Kelsie|19/05/2006|Norway|3
+1002|Ferdinand|31/01/1983|Bangladesh|2
+1084|Cameron|17/04/2014|Guyana|2
+1007|Philip|15/05/1956|Zimbabwe|5
+1111|Kennan|21/10/1960|Swaziland|0
+1091|Galena|31/01/1962|Dominican Republic|6
+1149|Amy|21/12/1933|Tanzania|0
+1082|Julian|21/08/1998|Suriname|3
+1101|Hayley|13/07/1992|Taiwan|5
+1054|Yuri|27/08/1934|Egypt|4
+1104|Clio|01/09/2001|Curaçao|4
+1019|Jamalia|19/08/1961|Maldives|2
+1032|Owen|07/05/1943|Namibia|1
+1002|Stella|18/04/1990|Macao|5
+1194|Mark|14/11/1980|Suriname|3
+1119|Leo|02/01/1985|American Samoa|3
+1148|Hoyt|17/07/2000|Palau|0
+1029|Camille|06/05/2015|Zambia|0
+1035|Colby|14/11/1977|Pitcairn Islands|2
+1143|Indira|22/11/1945|Uganda|0
+1172|Kaitlin|14/07/1984|Faroe Islands|0
+1111|Nissim|16/08/1975|Eritrea|4
+1076|Claudia|30/05/1978|Sweden|2
+1117|Serina|22/04/1994|Honduras|0
+1153|Marcia|11/06/1961|Norway|1
+1042|Anthony|04/07/2014|Austria|2
+1134|Marshall|15/02/1954|French Guiana|5
+1116|Wyoming|14/03/1995|Portugal|6
+1016|Iliana|31/05/1955|Iran|1
+1151|Heidi|03/07/1947|Switzerland|1
+1025|Mollie|07/05/1971|Jordan|1
+1066|Harrison|02/10/2006|Kiribati|0
+1161|Kirsten|27/04/1934|Switzerland|6
